@@ -37,6 +37,7 @@ You can install the package using npm:
 
 ```bash
 npm install rncstyles
+```
 
 
 <h3 align="left">Connect with me:</h3>
