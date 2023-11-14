@@ -23,9 +23,9 @@ I have developed an npm package called `rncstyles`, which simplifies styling in 
 
 ### Features:
 
-- [Pre-built Styling of React Native]
-- [React Native Styling made Easy by RNC Styles]
-- [Too Much Easy to use like Bootstrap]
+- Pre-built Styling of React Native.
+- React Native Styling made Easy by RNC Styles.
+- Too Easy to use like Bootstrap.
 
 ### Documentation:
 
